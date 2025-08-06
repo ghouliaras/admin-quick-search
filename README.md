@@ -20,17 +20,17 @@ A powerful WordPress plugin that adds a universal quick search feature to your a
 ## 📸 Screenshots
 
 ### Quick Search Modal
-<img src="https://github.com/user-attachments/assets/687d3259-31e1-4a78-9963-f694e12c4d11" alt="Quick Search Modal" />
+<img src="https://github.com/user-attachments/assets/b282a011-ccd8-4970-b37a-ebc712abf3a8" alt="Quick Search Modal" />
 
 *The clean, modern search interface appears instantly with Ctrl+K*
 
 ### Search Results
-<img src="https://github.com/user-attachments/assets/512fa7fa-cb7b-4873-9a3f-d3390e44a8ba" alt="Search Results" />
+<img src="https://github.com/user-attachments/assets/a3645d3a-9b0b-4597-b77c-89d6ab416171" alt="Search Results" />
 
 *Results are organized by type with status indicators*
 
 ### Keyboard Navigation
-<img src="https://github.com/user-attachments/assets/d2d5767d-7203-4daf-8922-3b7910001335" alt="Keyboard Navigation" />
+<img src="https://github.com/user-attachments/assets/989715b1-e9b9-4ad3-8d20-b239819c3c73" alt="Keyboard Navigation" />
 
 *Navigate results with arrow keys, select with Enter*
 
